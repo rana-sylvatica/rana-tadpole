@@ -8,7 +8,7 @@ The Rana Tadpole is a pocket-sized 20-button digital controller, designed for pl
 
 Unlike most other similar controller designs that use either keyboard switches or arcade buttons, the Tadpole uses mouse switches (Kailh GM 4.0 if using the provided BOM files - there are other compatible switches that can be subsituted as well at the builders discretion).
 
-With the mouseclick switches, the Tadpole has best-in-class button travel distance, a mere 0.8mm, for fast reactions and precise inputs.  The mouseclick switches also enable the entire board to be easily factory assembled, cutting down on cost and build time.
+With the mouseclick switches, the Tadpole has best-in-class button travel distance, a mere 0.8mm until bottom-out, for fast reactions and precise inputs.  The mouseclick switches also enable the entire board to be easily factory assembled, cutting down on cost and build time.
 
 This repository contains design files for all required components to build your own Rana Tadpole.
 
