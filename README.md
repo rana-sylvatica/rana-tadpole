@@ -36,13 +36,35 @@ If you are interested in supporting this project, donations are accepted at [pay
 ### Parts list:
 
 The Rana Tadpole build requires the following list of components:
- - Case
- - Button Caps
- - Motherboard
- - USB Breakout Board
- - Backplate
- - Ribbon cable
- - Hardware
+ - #### Case
+   - 3D printed or CNC machined, see CAD files
+ - #### Button caps
+   - 3D printed, see CAD files
+ - #### Motherboard
+   - Embedded rp2040 PCB with factory-soldered mouseclick switches, see KiCAD and Gerber files
+ - #### USB Breakout board
+   - USB C board with case grounding and ESD protection, see KiCAD and Gerber files
+ - #### Backplate
+   - Silkscreen PCB (or lasercut/3D printed). KiCAD/Gerber, DXF, and .STEP files available
+ - #### Foam pads
+   - Lasercut EVA foam, DXF files available
+   - Example foam that works well: https://www.amazon.com/gp/product/B07V5PR459
+ - ####  Ribbon cable
+   - 12 pin, 0.5mm pitch, 50mm length FFC
+   - Example items: https://www.digikey.com/en/products/detail/assmann-wsw-components/AFFC-050-12-051-11/6570261, https://www.aliexpress.us/item/3256803954097404.html
+ - #### Grounding foam
+   - Optional, but helps with ESD protection if using the PCB backplate.  Link: https://www.aliexpress.us/item/3256805239781097.html 
+ - #### Hardware
+   - Screws
+     - 2x M3x6mm (for securing the USB C board).  Link:
+     - 6x M3x8mm (for securing the backplate/motherboard). Link: 
+   - Spacers
+ - #### USB C-USB A cable (for PC/switch compatibility)
+ - #### USB C-GCC cable (for gamecube/wii compatibility)
+
+#### Case:
+#### Button caps:
+
 
 ### Assembly guide:
 
