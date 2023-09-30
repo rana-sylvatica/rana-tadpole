@@ -31,7 +31,7 @@ Note: if selling Rana Tadpoles, YOU MUST link to this repo (or your fork of this
 
 All these files are posted as-is. This source is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING OF MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A PARTICULAR PURPOSE. 
 
-If you are interested in supporting this project, donations are accepted at [paypal.me/RanaLabs](paypal.me/RanaLabs).
+If you are interested in supporting this project, donations are accepted at [paypal.me/RanaLabs](https://www.paypal.me/RanaLabs).
 
 ### Parts list:
 
