@@ -107,7 +107,7 @@ There are three different open-source firmwares that the Rana Tadpole is compati
 
 
    GP2040-CE:
-   ![image](https://github.com/rana-sylvatica/rana-tadpole/assets/95242582/feb0c751-0389-48be-a4a3-47c8414bb06b)
+   ![gp2040ce_layout_transparent](https://github.com/rana-sylvatica/rana-tadpole/assets/95242582/06dbd2a9-58ea-40de-8402-7957c34bada1)
 
    #### Switching and flashing firmwares:
 
