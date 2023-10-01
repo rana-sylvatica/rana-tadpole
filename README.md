@@ -103,8 +103,7 @@ There are three different open-source firmwares that the Rana Tadpole is compati
    #### Default layouts:
 
    HayBox and pico-rectangle:
-   ![image](https://github.com/rana-sylvatica/rana-tadpole/assets/95242582/e95436c3-5200-4ed7-9cd4-ecb75c6fb41b)
-
+   ![smash_layout_transparent](https://github.com/rana-sylvatica/rana-tadpole/assets/95242582/720c8862-ca49-475f-98b4-b47ccff899fa)
 
    GP2040-CE:
    ![gp2040ce_layout_transparent](https://github.com/rana-sylvatica/rana-tadpole/assets/95242582/06dbd2a9-58ea-40de-8402-7957c34bada1)
