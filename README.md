@@ -56,10 +56,10 @@ The Rana Tadpole build requires the following list of components:
    - Optional, but helps with ESD protection if using the PCB backplate.  Link: https://www.aliexpress.us/item/3256805239781097.html 
  - #### Hardware
    - Screws
-     - 2x M3x6mm (for securing the USB C board).  Link:
-     - 6x M3x8mm (for securing the backplate/motherboard). Link: 
+     - 2x M3x6mm (for securing the USB C board).  Link: https://www.mcmaster.com/94500A221/
+     - 6x M3x8mm (for securing the backplate/motherboard).  Link: https://www.mcmaster.com/92095A181/ OR https://www.aliexpress.us/item/2255800885711092.html
    - Spacers
-
+     - 6x X-profile o-rings, dash number 104.  Link: https://www.mcmaster.com/90025K513/
 
 #### Extras: 
  - #### USB C-USB A cable (for PC/switch compatibility)
@@ -71,3 +71,44 @@ The Rana Tadpole build requires the following list of components:
 ### Assembly guide:
 
 See YouTube video: https://www.youtube.com/watch?v=oF4wL67agoM
+
+### User guide:
+
+There are three different open-source firmwares that the Rana Tadpole is compatible with: 
+ - [HayBox](https://github.com/JonnyHaystack/HayBox)
+   - Compatible with:
+     - PC (as XInput or DInput device)
+     - GameCube
+     - Wii
+     - Switch
+     - N64
+     - Other consoles (via Brook Wingman adapter)
+ - [pico-rectangle](https://github.com/JulienBernard3383279/pico-rectangle)
+   - Compatible with:
+     - PC (as emulated GC adapter or XInput device)
+     - GameCube
+     - Wii
+     - Switch
+     - Other consoles (via Brook Wingman adapter)
+ - [GP2040-CE](https://gp2040-ce.info/#/README)
+   - Generally used for traditional fighting games, compatible with:
+     - PC
+     - PS3
+     - PS4
+     - Switch
+     - Other consoles (via Brook Wingman adapter)
+    
+    Please refer to the documentation for each firmware for more information.
+
+   #### Default layouts:
+
+   HayBox and pico-rectangle:
+   ![image](https://github.com/rana-sylvatica/rana-tadpole/assets/95242582/e95436c3-5200-4ed7-9cd4-ecb75c6fb41b)
+
+
+   GP2040-CE:
+   ![image](https://github.com/rana-sylvatica/rana-tadpole/assets/95242582/feb0c751-0389-48be-a4a3-47c8414bb06b)
+
+   #### Switching and flashing firmwares:
+
+
