@@ -10,7 +10,7 @@ Unlike most other similar controller designs that use either keyboard switches o
 
 With the mouseclick switches, the Tadpole has best-in-class button travel distance, a mere 0.8mm until bottom-out, for fast reactions and precise inputs.  The mouseclick switches also enable the entire board to be easily factory assembled, cutting down on cost and build time.
 
-This repository contains design files for all required components to build your own Rana Tadpole.
+This repository contains design files for all required components to build your own Rana Tadpole.  Scroll down for open source license information, parts list, link to build guide, and user guide.
 
 
 ### Licensing:
@@ -59,13 +59,15 @@ The Rana Tadpole build requires the following list of components:
      - 2x M3x6mm (for securing the USB C board).  Link:
      - 6x M3x8mm (for securing the backplate/motherboard). Link: 
    - Spacers
- - #### USB C-USB A cable (for PC/switch compatibility)
- - #### USB C-GCC cable (for gamecube/wii compatibility)
 
-#### Case:
-#### Button caps:
+
+#### Extras: 
+ - #### USB C-USB A cable (for PC/switch compatibility)
+   - Any USB data cable will work
+ - #### USB C-GCC cable (for gamecube/wii compatibility)
+   - Several suppliers such as B0XX, Frame1, JunkFoodArcades, HandHeldLegend.  HHL is currrently the best option for price/quality: https://handheldlegend.com/products/retro-c-gamecube-cable-usb-c-to-gamecube-cable?variant=40183052337286
 
 
 ### Assembly guide:
 
-See YouTube video - [link]
+See YouTube video: https://www.youtube.com/watch?v=oF4wL67agoM
