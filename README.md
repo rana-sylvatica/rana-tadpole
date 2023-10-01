@@ -4,7 +4,7 @@
 
 ### Overview:
 
-The Rana Tadpole is a pocket-sized 20-button digital controller, designed for platform fighters (specifically SSBM/SSBU) but usable for other fighting games, platformers, etc.
+The Rana Tadpole is a pocket-sized 20-button digital controller, designed for platform fighters but usable for other fighting games, platformers, etc.
 
 Unlike most other similar controller designs that use either keyboard switches or arcade buttons, the Tadpole uses mouse switches (Kailh GM 4.0 if using the provided BOM files - there are other compatible switches that can be subsituted as well at the builders discretion).
 
