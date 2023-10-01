@@ -38,6 +38,9 @@ If you are interested in supporting this project, donations are accepted at [pay
 The Rana Tadpole build requires the following list of components:
  - #### Case
    - 3D printed or CNC machined, see CAD files
+   - Additional notes:
+     - JLCPCB or PCBway are affordable CNC machining vendors.  If you want the screw holes threaded at the factory (rather than doing it by hand), you will need to create a drawing specifying the thread type, hole position, and thread depth.
+     - If 3D printing the case, the provided file is designed to have the screws thread directly into the plastic.  Getting a good fit on your printer may require some adjustment.  The files can also be modified to accept heat set inserts, or other screws (such as specialized thread-cutting screws) can be subsituted for the machine screws as well.  Just do your research on hole diameters, etc.
  - #### Button caps
    - 3D printed, see CAD files
  - #### Motherboard
