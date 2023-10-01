@@ -110,4 +110,15 @@ There are three different open-source firmwares that the Rana Tadpole is compati
 
    #### Switching and flashing firmwares:
 
+   To flash a firmware, the rp2040 chip inside the Tadpole motherboard must be put in BOOTSEL mode, at which point the controller will show up as a mass storage device when plugged into a computer and the fimrware file can be copied to it.
 
+   There are two ways of putting the Tadpole in BOOTSEL mode.  First, there is a small button on the motherboard that can be held down as the board is plugged into the PC.  However, this can be inconvenient as it requires disassembling the controller to access this button.
+
+   The alternative method is to use hold a button (or button combination) specific to the particular firmware, when plugging into the PC.
+   - For HayBox: hold Start
+   - For pico-rectangle: hold C-Right
+   - For GP2040-CE: hold Start + Select + Home (refer to the GP2040-CE layout graphic)
+  
+   Additional notes on GP2040-CE:
+   - Eventually, the Rana Tadpole configuration may be added to the GP2040-CE website.  For now, just use the .UF2 file in this repository.
+   - Hold Start on plugin to put it in web-config mode to change button mappings
