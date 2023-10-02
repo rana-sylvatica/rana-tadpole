@@ -43,6 +43,10 @@ The Rana Tadpole build requires the following list of components:
      - If 3D printing the case, the provided file is designed to have the screws thread directly into the plastic.  Getting a good fit on your printer may require some adjustment.  The files can also be modified to accept heat set inserts, or other screws (such as specialized thread-cutting screws) can be subsituted for the machine screws as well.  Just do your research on hole diameters, etc.
  - #### Button caps
    - 3D printed, see CAD files
+   - Additional notes:
+     - For best quality, order the Tadpole_Button_x8 file from JLCPCB or other 3D printing service in SLS or MJF nylon
+     - Resin printing also works well
+     - These buttons are difficult to print with a FDM printer, but please let me know if you find a modification to the design that allows them to print well!
  - #### Motherboard
    - Embedded rp2040 PCB with factory-soldered mouseclick switches, see KiCAD and Gerber files
    - The Gerber and assembly files are generated for ordering through JLCPCB.  Other PCB fabs can also be used, but you may need to generate the production files differently.  (applicable to all three PCB components here)
