@@ -80,7 +80,7 @@ The Rana Tadpole build requires the following list of components:
    - Several suppliers such as B0XX, Frame1, JunkFoodArcades, HandHeldLegend.  HHL is currrently the best option for price/quality: https://handheldlegend.com/products/retro-c-gamecube-cable-usb-c-to-gamecube-cable?variant=40183052337286
  - #### Belt clip
    - .STL file provided for 3D printing
- - #### Carry cag
+ - #### Carry bag
    - Canvas zipper pouches that measure at least 8" x 6" work well
 
 
