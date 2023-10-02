@@ -12,6 +12,9 @@ With the mouseclick switches, the Tadpole has best-in-class button travel distan
 
 This repository contains design files for all required components to build your own Rana Tadpole.  Scroll down for open source license information, parts list, link to build guide, and user guide.
 
+### Attributions:
+
+Many thanks to [Quark](https://github.com/Armastardo) for the PCB design for both the motherboard and daughterboard!
 
 ### Licensing:
 
