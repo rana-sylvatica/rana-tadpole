@@ -45,6 +45,7 @@ The Rana Tadpole build requires the following list of components:
    - 3D printed, see CAD files
  - #### Motherboard
    - Embedded rp2040 PCB with factory-soldered mouseclick switches, see KiCAD and Gerber files
+   - The Gerber and assembly files are generated for ordering through JLCPCB.  Other PCB fabs can also be used, but you may need to generate the production files differently.  (applicable to all three PCB components here)
  - #### USB Breakout board
    - USB C board with case grounding and ESD protection, see KiCAD and Gerber files
  - #### Backplate
