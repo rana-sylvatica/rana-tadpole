@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="QS-60.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   width="30.0mm"
+   height="12.0mm"
+   viewBox="0 0 30.0 12.0"
+   version="1.1"
+   id="svg192">
+  <defs
+     id="defs186" />
+  <sodipodi:namedview
+     borderlayer="true"
+     inkscape:window-maximized="0"
+     inkscape:window-y="-31745"
+     inkscape:window-x="-32000"
+     inkscape:window-height="1369"
+     inkscape:window-width="3440"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="g211"
+     inkscape:document-units="mm"
+     inkscape:cy="16.176649"
+     inkscape:cx="58.64572"
+     inkscape:zoom="15.839192"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#000000"
+     id="base" />
+  <metadata
+     id="metadata189">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     style="display:inline"
+     inkscape:label="[fixed] BG"
+     inkscape:groupmode="layer"
+     id="g199">
+    <rect
+       x="0"
+       y="0"
+       width="20"
+       height="12"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="rect197" />
+  </g>
+  <g
+     inkscape:label="Edge.Cuts"
+     inkscape:groupmode="layer"
+     id="g201" />
+  <g
+     inkscape:label="B.Cu"
+     inkscape:groupmode="layer"
+     id="g203" />
+  <g
+     inkscape:label="B.Mask"
+     inkscape:groupmode="layer"
+     id="g205" />
+  <g
+     style="display:inline"
+     inkscape:label="B.SilkS"
+     inkscape:groupmode="layer"
+     id="g207" />
+  <g
+     style="display:inline"
+     inkscape:label="F.Cu"
+     inkscape:groupmode="layer"
+     id="g209">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.36128px;line-height:0;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.084032"
+       x="15.027051"
+       y="2.7355809"
+       id="text12"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.68903px;line-height:1.9;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.084032"
+         sodipodi:role="line"
+         id="tspan174"
+         x="15.027051"
+         y="2.7355809">QUANTUM SERIES</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.06708px;line-height:0.6;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.084032"
+         sodipodi:role="line"
+         id="tspan184"
+         x="15.027051"
+         y="9.2706413">QS-60</tspan><tspan
+         sodipodi:role="line"
+         x="15.027051"
+         y="11.008764"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.24086px;line-height:0.9;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.084032"
+         id="tspan78">quark.works</tspan></text>
+  </g>
+  <g
+     style="display:inline"
+     inkscape:label="F.Mask"
+     inkscape:groupmode="layer"
+     id="g211">
+    <text
+       id="text1131"
+       y="2.7355809"
+       x="15.027051"
+       style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.36128px;line-height:0;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.084032"
+       xml:space="preserve"><tspan
+         y="2.7355809"
+         x="15.027051"
+         id="tspan1125"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.68903px;line-height:1.9;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.084032">QUANTUM SERIES</tspan><tspan
+         y="9.2706413"
+         x="15.027051"
+         id="tspan1127"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.06708px;line-height:0.6;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.084032">QS-60</tspan><tspan
+         id="tspan1129"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.24086px;line-height:0.9;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.084032"
+         y="11.008764"
+         x="15.027051"
+         sodipodi:role="line">quark.works</tspan></text>
+  </g>
+  <g
+     inkscape:label="F.SilkS"
+     inkscape:groupmode="layer"
+     id="g213" />
+  <g
+     inkscape:label="Dwgs.User"
+     inkscape:groupmode="layer"
+     id="g215" />
+  <g
+     inkscape:label="Drill"
+     inkscape:groupmode="layer"
+     id="g217" />
+</svg>
