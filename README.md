@@ -133,7 +133,7 @@ There are three different open-source firmwares that the Rana Tadpole is compati
    The alternative method is to use hold a button (or button combination) specific to the particular firmware, when plugging into the PC.
    - For HayBox: hold Start
    - For pico-rectangle: hold C-Right
-   - For GP2040-CE: hold Start + Select + Home (refer to the GP2040-CE layout graphic)
+   - For GP2040-CE: hold Start + Select + Up (refer to the GP2040-CE layout graphic)
   
    Additional notes on GP2040-CE:
    - Eventually, the Rana Tadpole configuration may be added to the GP2040-CE website.  For now, just use the .UF2 file in this repository.
