@@ -169,3 +169,8 @@ There are three different open-source firmwares that the Rana Tadpole is compati
      
      ![image](https://github.com/user-attachments/assets/72e85c38-159a-497a-b7da-5fe01bf1f00f)
 
+
+### Support
+ 
+   The easiest way to get in touch with me or other Tadpole users is the Rana Labs Discord Server: https://discord.gg/9wBaMWgJkv
+
