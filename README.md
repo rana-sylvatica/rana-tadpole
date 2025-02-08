@@ -38,6 +38,14 @@ All these files are posted as-is. This source is distributed WITHOUT ANY EXPRESS
 
 If you are interested in supporting this project, donations are accepted at [paypal.me/RanaLabs](https://www.paypal.me/RanaLabs).
 
+### Rana Tadpole V2 Animation
+
+
+
+https://github.com/user-attachments/assets/85642930-a598-4af2-86c9-3ccd63989db8
+
+
+
 ### Parts list:
 
 The Rana Tadpole build requires the following list of components:
