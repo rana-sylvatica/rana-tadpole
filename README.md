@@ -46,8 +46,8 @@ The Rana Tadpole build requires the following list of components:
      - If 3D printing the case, the provided file is designed to have the screws thread directly into the plastic.  Getting a good fit on your printer may require some adjustment.  The files can also be modified to accept heat set inserts, or other screws (such as specialized thread-cutting screws) can be subsituted for the machine screws as well.  Just do your research on hole diameters, etc.
      - I plan to post a case model in the future that is designed for ordering inexpensively from a 3D printing service such as JLCPCB, but that design is not quite ready yet.
  - #### Button caps
-   - 3D printed, see CAD files
-   - Additional notes:
+   - These can be purchased from me (injection molded PBT) or 3D printed.  Link to purchase: https://ko-fi.com/s/469357a31c
+   - Additional notes for 3D printing:
      - For best quality, order the Tadpole_Button_x8 file from JLCPCB or other 3D printing service in SLS or MJF nylon
      - Resin printing also works well
      - These buttons are difficult to print with a FDM printer, but please let me know if you find a modification to the design that allows them to print well!
@@ -59,7 +59,7 @@ The Rana Tadpole build requires the following list of components:
  - #### Backplate
    - Silkscreen PCB (or lasercut/3D printed). KiCAD/Gerber, DXF, and .STEP files available
  - #### Foam pads
-   - Lasercut EVA foam, DXF files available
+   - These can be purchased from me (die cut textured silicone rubber), or lasercut from EVA foam or similar.  Link to purcahse from me: https://ko-fi.com/s/3146277fc0
    - Example foam that works well: https://www.amazon.com/gp/product/B07V5PR459
  - ####  Ribbon cable
    - 12 pin, 0.5mm pitch, 50mm length FFC, Same side contacts (sometimes called "Forward Direction"
