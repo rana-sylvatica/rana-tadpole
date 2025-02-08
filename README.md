@@ -62,22 +62,24 @@ The Rana Tadpole build requires the following list of components:
    - Lasercut EVA foam, DXF files available
    - Example foam that works well: https://www.amazon.com/gp/product/B07V5PR459
  - ####  Ribbon cable
-   - 12 pin, 0.5mm pitch, 50mm length FFC
-   - Example items: https://www.digikey.com/en/products/detail/assmann-wsw-components/AFFC-050-12-051-11/6570261, https://www.aliexpress.us/item/3256803954097404.html
+   - 12 pin, 0.5mm pitch, 50mm length FFC, Same side contacts (sometimes called "Forward Direction"
+   - Example items: https://www.digikey.com/en/products/detail/assmann-wsw-components/AFFC-050-12-051-11/6570261, [https://www.aliexpress.us/item/3256803954097404.html](https://www.aliexpress.us/item/3256805295157150.html)
  - #### Grounding foam
    - Optional, but helps with ESD protection if using the PCB backplate.  Link: https://www.aliexpress.us/item/3256805239781097.html 
  - #### Hardware
    - Screws
      - 2x M3x6mm (for securing the USB C board).  Link: https://www.mcmaster.com/94500A221/
-     - 6x M3x8mm (for securing the backplate/motherboard).  Link: https://www.mcmaster.com/92095A181/ OR https://www.aliexpress.us/item/2255800885711092.html
+     - 6x M3x10mm (for securing the backplate/motherboard).  Link: [https://www.mcmaster.com/92095A181/](https://www.mcmaster.com/92095A182/) OR [https://www.aliexpress.us/item/2255800885711092.html](https://www.aliexpress.us/item/3256804883804669.html?)
    - Spacers
-     - 6x X-profile o-rings, dash number 104.  Link: https://www.mcmaster.com/90025K513/
+     - Can either use:
+       - 6x X-profile o-rings, dash number 104.  Link: https://www.mcmaster.com/90025K513/
+       - 3mm thick gaskets using the files in this repo - these can be 3D printed in soft TPU or die cut from silicone or similar
 
 #### Extras: 
  - #### USB C-USB A cable (for PC/switch compatibility)
    - Any USB data cable will work
  - #### USB C-GCC cable (for gamecube/wii compatibility)
-   - Several suppliers such as B0XX, Frame1, JunkFoodArcades, HandHeldLegend.  HHL is currrently the best option for price/quality: https://handheldlegend.com/products/retro-c-gamecube-cable-usb-c-to-gamecube-cable?variant=40183052337286
+   - Several suppliers, but HHL or my store are good options: https://handheldlegend.com/products/retro-c-gamecube-cable-usb-c-to-gamecube-cable?variant=40183052337286, https://ko-fi.com/s/bc4af1084a
  - #### Belt clip
    - .STL file provided for 3D printing
  - #### Carry bag
@@ -87,6 +89,8 @@ The Rana Tadpole build requires the following list of components:
 ### Assembly guide:
 
 See YouTube video: https://www.youtube.com/watch?v=oF4wL67agoM
+
+NOTE: This is slightly out of date now, given the V2 version that adds the slide switch.  I may eventually make an updated build guide, but for now this is still mostly relevant.
 
 ### User guide:
 
