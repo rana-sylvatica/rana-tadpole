@@ -4,6 +4,8 @@
 
 ### Overview:
 
+#### NOTE: I am in the process of updating this repository with information and design files for the Rana Tadpole V2.  This process isn't quite done yet - wait a few days if you are looking to build your own Tadpole V2 (I'll remove this note once I'm done with the update)
+
 The Rana Tadpole is a pocket-sized 20-button digital controller, designed for platform fighters but usable for other fighting games, platformers, etc.
 
 Unlike most other similar controller designs that use either keyboard switches or arcade buttons, the Tadpole uses mouse switches (Kailh GM 4.0 if using the provided BOM files - there are other compatible switches that can be subsituted as well at the builders discretion).
@@ -92,7 +94,21 @@ See YouTube video: https://www.youtube.com/watch?v=oF4wL67agoM
 
 NOTE: This is slightly out of date now, given the V2 version that adds the slide switch.  I may eventually make an updated build guide, but for now this is still mostly relevant.
 
-### User guide:
+### Dual Firmware Switch:
+
+The Rana Tadpole V2 has a fun new feature - two different flash memory chips, with a switch on the side of the controller to select between them.  This is very useful if you want to use your Tadpole for both platform fighters and traditional fighters - you can load HayBox on one memory slot and GP2040-CE on the other.
+
+#### IMPORTANT NOTE: Do not flip the firmware switch while the device is plugged in.  Unplug it, flip the switch to the other position, and plug it back in.
+
+### Aux USB C Port:
+
+Another new feature of the Tadpole V2 is the auxillary USB C port on the side of the controller.  The main purpose of this is for passthrough authentication when using GP2040-CE firmware, to get PS4/PS5 compatibility without additional input latency.  
+
+This port is also capable of becoming a flexible expansion port in the future, with many possibilities including: an adapter to connect a GCC for mixed input (left hand GCC, right hand Tadpole) gameplay, pluggable analog joystick(s), etc.
+
+#### MORE INFO TO COME HERE
+
+### Firmwares:
 
 There are three different open-source firmwares that the Rana Tadpole is compatible with: 
  - [HayBox](https://github.com/JonnyHaystack/HayBox)
@@ -120,6 +136,8 @@ There are three different open-source firmwares that the Rana Tadpole is compati
     
     Please refer to the documentation for each firmware for more information.
 
+
+
    #### Default layouts:
 
    HayBox and pico-rectangle:
@@ -135,10 +153,19 @@ There are three different open-source firmwares that the Rana Tadpole is compati
    There are two ways of putting the Tadpole in BOOTSEL mode.  First, there is a small button on the motherboard that can be held down as the board is plugged into the PC.  However, this can be inconvenient as it requires disassembling the controller to access this button.
 
    The alternative method is to use hold a button (or button combination) specific to the particular firmware, when plugging into the PC.
-   - For HayBox: hold Start
+   - For HayBox: hold Start (may be different if using a fork of HayBox.  For example, https://github.com/GRAMCTRL/HayBox-GRAM uses "A" as the button hold to get into BOOTSEL mode).
    - For pico-rectangle: hold C-Right
    - For GP2040-CE: hold Start + Select + Up (refer to the GP2040-CE layout graphic)
   
+   Additional notes on HayBox:
+   - The HayBox-GRAM fork brings a few features such as web remapping (see below) and a dedicated Rivals 2 mode, that aren't (yet) in a pre-compiled release of mainline HayBox.
+     - In the firmware-binaries folder is a .UF2 file for the Tadpole configuration of this firmware.  Until there is a mainline HayBox release that includes these new features, this is a good choice.
+     - To access the remapper, go to remapp.ing, hold Start when plugging in the Tadpole, and follow the instructions on the screen.
+  
    Additional notes on GP2040-CE:
-   - Eventually, the Rana Tadpole configuration may be added to the GP2040-CE website.  For now, just use the .UF2 file in this repository.
-   - Hold Start on plugin to put it in web-config mode to change button mappings
+   - The Rana Tadpole version of GP2040-CE can be downloaded from: https://gp2040-ce.info/downloads (scroll down until you find the Tadpole download link)
+   - Hold Start (refer to the GP2040-CE layout graphic) on plugin to put it in web-config mode to change button mappings, go to https://gp2040-ce.info/web-configurator/ to access the configurator
+   - To enable passthrough authentication for PS4/PS5 compatibility (with an appropriate adapter such as a Brook Wingman, Honson F5, Mayflash Magicboots, or Haute42 Booter5), go to the peripheral mapping section of the GP2040-CE Web Configurator and enable USB Host  mode on pin 9 as shown in the image below:
+     
+     ![image](https://github.com/user-attachments/assets/72e85c38-159a-497a-b7da-5fe01bf1f00f)
+
