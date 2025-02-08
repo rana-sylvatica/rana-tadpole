@@ -110,7 +110,10 @@ The Rana Tadpole V2 has a fun new feature - two different flash memory chips, wi
 
 ### Aux USB C Port:
 
-Another new feature of the Tadpole V2 is the auxillary USB C port on the side of the controller.  The main purpose of this is for passthrough authentication when using GP2040-CE firmware, to get PS4/PS5 compatibility without additional input latency.  
+Another new feature of the Tadpole V2 is the auxillary USB C port on the side of the controller.  The main purpose of this is for passthrough authentication when using GP2040-CE firmware, to get PS4/PS5 compatibility without additional input latency (see image below).
+
+![IMG_20250208_135556](https://github.com/user-attachments/assets/99c1938a-51a4-4236-a9cb-e757d5f5028f)
+
 
 This port is also capable of becoming a flexible expansion port in the future, with many possibilities including: an adapter to connect a GCC for mixed input (left hand GCC, right hand Tadpole) gameplay, pluggable analog joystick(s), etc.
 
