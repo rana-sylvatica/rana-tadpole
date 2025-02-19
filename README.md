@@ -4,7 +4,7 @@
 
 ### Overview:
 
-#### NOTE: I am in the process of updating this repository with information and design files for the Rana Tadpole V2.  This process isn't quite done yet - wait a few days if you are looking to build your own Tadpole V2 (I'll remove this note once I'm done with the update)
+#### NOTE: I am in the process of updating this repository with information and design files for the Rana Tadpole V2.  This process isn't quite done yet - wait a few days if you are looking to build your own Tadpole V2 (I'll remove this note once I'm done with the update).  The V2 motherboard files are now up, I'll be getting to adding the case file and other stuff Soon(TM)
 
 The Rana Tadpole is a pocket-sized 20-button digital controller, designed for platform fighters but usable for other fighting games, platformers, etc.
 
